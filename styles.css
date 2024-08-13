@@ -16,8 +16,9 @@ ul {
     padding: 0;
     gap: 16px;
     text-decoration: none;
+    list-style: none;
   }
 
 a {
-   list-style: none;
+   
 }
